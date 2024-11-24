@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/922992242764108024/287bc1abf0df45c3a85b792648f034a0/artifacts
+end_time: 1732464400633
+entry_point_name: ''
+experiment_id: '922992242764108024'
+lifecycle_stage: active
+run_id: 287bc1abf0df45c3a85b792648f034a0
+run_name: smiling-pig-335
+run_uuid: 287bc1abf0df45c3a85b792648f034a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732464397574
+status: 3
+tags: []
+user_id: ricardo
